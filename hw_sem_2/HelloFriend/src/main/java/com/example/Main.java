@@ -1,7 +1,5 @@
 package com.example;
 
-// Это как библиотека классов. таким методом, который показан в этом примере уже не пользуются. Рассматриваем его только для понимания.
-
 import com.example.config.ProjectConfig;
 import com.example.domain.Friend;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;

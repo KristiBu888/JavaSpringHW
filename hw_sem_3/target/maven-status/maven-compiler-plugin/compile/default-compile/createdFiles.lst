@@ -1,0 +1,9 @@
+com\example\hw3\controllers\TaskController.class
+com\example\hw3\services\RegistrationService.class
+com\example\hw3\controllers\UserController.class
+com\example\hw3\services\DataProcessingService.class
+com\example\hw3\services\NotificationService.class
+com\example\hw3\repository\UserRepository.class
+com\example\hw3\services\UserService.class
+com\example\hw3\domain\User.class
+com\example\hw3\HW3Application.class

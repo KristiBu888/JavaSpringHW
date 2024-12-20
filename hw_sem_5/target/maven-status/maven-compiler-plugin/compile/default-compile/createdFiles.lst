@@ -1,0 +1,10 @@
+com\example\hw5\comtroller\ControllerTask.class
+com\example\hw5\model\TaskStatus$1.class
+com\example\hw5\model\TaskStatus$3.class
+com\example\hw5\comtroller\ControllerTask$TaskController.class
+com\example\hw5\Hw5Application.class
+com\example\hw5\model\TaskStatus$2.class
+com\example\hw5\model\Task.class
+com\example\hw5\model\TaskStatus.class
+com\example\hw5\repository\TaskRepository.class
+com\example\hw5\servises\TaskService.class

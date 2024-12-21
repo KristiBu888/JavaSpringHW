@@ -1,0 +1,7 @@
+com\example\hw8\services\NoteService.class
+com\example\hw8\aspects\TrackUserAction.class
+com\example\hw8\controller\NoteController.class
+com\example\hw8\aspects\LoggAspect.class
+com\example\hw8\Hw8Application.class
+com\example\hw8\model\Note.class
+com\example\hw8\repository\NoteRepository.class

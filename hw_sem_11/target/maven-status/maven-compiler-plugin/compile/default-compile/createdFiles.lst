@@ -1,0 +1,10 @@
+com\example\hw11\repository\TaskRepository.class
+com\example\hw11\model\TaskStatus$1.class
+com\example\hw11\model\TaskStatus$2.class
+com\example\hw11\model\TaskStatus.class
+com\example\hw11\comtroller\ControllerTask.class
+com\example\hw11\model\Task.class
+com\example\hw11\servises\TaskService.class
+com\example\hw11\comtroller\ControllerTask$TaskController.class
+com\example\hw11\Hw11Application.class
+com\example\hw11\model\TaskStatus$3.class
